@@ -1,8 +1,5 @@
-# vendor_xiaomi lineage-20
+# vendor_xiaomi banana-13.0
 
-### msm8953 targets
 - msm8953-common
 - sakura-common
 - sakura
-- daisy
-- ysl
