@@ -236,12 +236,6 @@ dex_import {
 }
 
 dex_import {
-	name: "com.qti.snapdragon.sdk.display",
-	owner: "xiaomi",
-	jars: ["proprietary/framework/com.qti.snapdragon.sdk.display.jar"],
-}
-
-dex_import {
 	name: "tcmclient",
 	owner: "xiaomi",
 	jars: ["proprietary/framework/tcmclient.jar"],
